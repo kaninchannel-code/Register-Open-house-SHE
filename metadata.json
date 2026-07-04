@@ -1,0 +1,6 @@
+{
+  "name": "Open House SHE SMPC Registration",
+  "description": "แอปลงทะเบียนสำหรับเข้าร่วมงาน Open House SHE SMPC พร้อมระบบสมัครสมาชิกและลงชื่อเข้าใช้งาน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
